@@ -14,6 +14,32 @@
 4. My Portfolio - site: - repo:
 </details>
 
+<details>
+<summary>Vanilla javascript Projects</summary>
+<br>
+1. CityScore - site: - repo:
+</details>
+
+<details>
+<summary>Full Stack Projects</summary>
+<br>
+1. BARC Shelter - site: - repo: 
+<br>
+2. Premier League Survivor - site: - repo:
+</details>
+
+<details>
+<summary>MERN Project(s)</summary>
+<br>
+1. BARC Shelter - site: - repo: 
+</details>
+
+<details>
+<summary>Ruby on Rails with React Frontend Project(s)</summary>
+<br>
+1. Premier League Survivor - site: - repo:
+</details>
+
 <!--
 **zashirah/zashirah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
