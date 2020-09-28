@@ -6,7 +6,7 @@
 <summary>React.js Projects</summary>
 + 2048 (Clone) - site: - repo:
 + BARC Shelter - site: - repo: 
-+ Premier League Survivor - site: [Premier League Survivor Site](https://epl-survivor.netlify.app) - repo: [Premier League Survivor Github](https://github.com/zashirah/premier-league-survivor)
++ Premier League Survivor - site: ![Premier League Survivor Site](https://epl-survivor.netlify.app) - repo: ![Premier League Survivor Github](https://github.com/zashirah/premier-league-survivor)
 + My Portfolio - site: - repo:
 </details>
 
