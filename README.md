@@ -2,6 +2,9 @@
 
 #### I am currently looking for a software engineering, data engineering, or data science role in the Atlanta area but am also open to remote work. I have a passion for solving complex problems with code and I'd love an opportunity to work with you. If you have an questios of my abilities as a software enginner please check out any links to my work below:
 
+
+orite search engine is [Duck Duck Go](https://duckduckgo.com).
+
 <details>
 <summary>React.js Projects</summary>
 1. 2048 (Clone) - site: - repo:
