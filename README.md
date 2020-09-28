@@ -9,7 +9,7 @@
 <br>
 2. BARC Shelter - site: - repo: 
 <br>
-3. Premier League Survivor - site: - repo: [Premier League Survivor Github](https://github.com/zashirah/premier-league-survivor)
+3. Premier League Survivor - site: [Premier League Survivor Site](https://epl-survivor.netlify.app) - repo: [Premier League Survivor Github](https://github.com/zashirah/premier-league-survivor)
 <br>
 4. My Portfolio - site: - repo:
 </details>
