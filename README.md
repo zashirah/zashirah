@@ -6,8 +6,11 @@
 <summary>React.js Projects</summary>
 <br>
 1. 2048 (Clone) - site: - repo:
+<br>
 2. BARC Shelter - site: - repo: 
+<br>
 3. Premier League Survivor - site: - repo:
+<br>
 4. My Portfolio - site: - repo:
 </details>
 
